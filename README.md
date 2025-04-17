@@ -7,9 +7,9 @@
 ## 💁‍♀️ About Me
 
 Hi! I'm **Bianca Ramos**, but you can call me **Bia**!  
-🎓 I'm a 20-year-old Brazilian student of **Systems Analysis and Development**.  
-💡 Passionate about **technology, UI/UX design, and clean code**.  
-🌱 Currently learning **React Native** and diving into **backend development**.  
+🎓 I'm a 20-year-old Brazilian. I have a degree in **Systems Analysis and Development**.  
+💡  Passionate about **technology, web development and data science**.  
+🌱 Currently learning **Python** and diving into **backend development**.  
 💬 I love sharing knowledge and building projects that make a difference!
 
 ---
@@ -17,11 +17,13 @@ Hi! I'm **Bianca Ramos**, but you can call me **Bia**!
 ## 🚀 Technologies & Tools
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 </div>
 
 ---
