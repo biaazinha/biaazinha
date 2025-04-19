@@ -7,8 +7,9 @@
 ## 💁‍♀️ About Me
 
 Hi! I'm **Bianca Ramos**, but you can call me **Bia**!  
+
 🎓 I'm a 20-year-old Brazilian. I have a degree in **Systems Analysis and Development**.  
-💡  Passionate about **technology, web development and data science**.  
+💡 Passionate about **technology, web development and data science**.  
 🌱 Currently learning **Python** and diving into **backend development**.  
 💬 I love sharing knowledge and building projects that make a difference!
 
@@ -18,6 +19,7 @@ Hi! I'm **Bianca Ramos**, but you can call me **Bia**!
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
