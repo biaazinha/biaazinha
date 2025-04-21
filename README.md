@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bianca+Ramos!;20+years+old+💖;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+✨)](https://git.io/typing-svg)
 
----
-
 ## 💁‍♀️ About Me
 
 Hi! I'm **Bianca Ramos**, but you can call me **Bia**!  
@@ -19,7 +17,6 @@ Hi! I'm **Bianca Ramos**, but you can call me **Bia**!
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
