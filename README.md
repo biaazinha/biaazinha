@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bianca+Ramos!;20+years+old+💖;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bianca+Ramos!;20+years+old+💖;From+Brazil;Welcome+to+my+GitHub!+✨)](https://git.io/typing-svg)
 
 ## 💁‍♀️ About Me
 
