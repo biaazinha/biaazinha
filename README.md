@@ -6,7 +6,7 @@
 
 Hi! I'm **Bianca Ramos**, but you can call me **Bia**!  
 
-🎓 I'm Brazilian, 20 years old and have a degree in **Systems Analysis and Development**.
+🎓 I'm Brazilian, 21 years old and have a degree in **Systems Analysis and Development**.
 💡 I'm passionate about **technology, web development and data science**.
 🌱 I'm currently studying **Python** and delving deeper into **backend development** and **data science and analysis**.
 💬 I love sharing knowledge and building projects that make a difference and add value to me as a professional!
